@@ -7,6 +7,9 @@ class Iphone:
         self.y=year
         self.size=size
 
+
+
+
     def take_photo(self, yes):
     def can_call(self, yes):
         return f'Photo - {yes}\n'\
