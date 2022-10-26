@@ -8,7 +8,7 @@ class Iphone:
         self.size=size
 
 
-
+qwerty
 
     def take_photo(self, yes):
     def can_call(self, yes):
