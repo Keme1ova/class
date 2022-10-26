@@ -22,6 +22,7 @@ qwerty
                f'{self.s}]\n' \
                f'{self.y}\n' \
                f'{self.size}'
+    jk
 
 iphone11 = class Iphone(True, True, True, True, True, True)
 print(iphone11.take_photo(True))
