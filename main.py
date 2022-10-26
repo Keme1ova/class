@@ -42,3 +42,9 @@ iphone12 = IphoneX(model=True, color=True, memory=True, status=True, year=True, 
 print(iphone12.take_photo(True))
 print(iphone12.can_call(True))
 print(iphone12)
+gvg
+hbkb
+hbjhb
+'bhbkjb' \
+'jb ' \
+'b'
