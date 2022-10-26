@@ -8,8 +8,6 @@ class Iphone:
         self.size=size
 
 
-qwerty
-
     def take_photo(self, yes):
     def can_call(self, yes):
         return f'Photo - {yes}\n'\
@@ -22,7 +20,6 @@ qwerty
                f'{self.s}]\n' \
                f'{self.y}\n' \
                f'{self.size}'
-    jk
 
 iphone11 = class Iphone(True, True, True, True, True, True)
 print(iphone11.take_photo(True))
@@ -45,6 +42,3 @@ iphone12 = IphoneX(model=True, color=True, memory=True, status=True, year=True, 
 print(iphone12.take_photo(True))
 print(iphone12.can_call(True))
 print(iphone12)
-
-
-
